@@ -1,0 +1,17 @@
+h1 {
+  color: green;
+}
+li {
+  color: black;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.error {
+  color: green;
+  background:black;
+  font-size: 25px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
